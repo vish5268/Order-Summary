@@ -73,7 +73,7 @@ Areas I'd like to practice on:
 
 ### Useful resources
 
-- [1](https://youtu.be/-JNRQ5HjNeI) - This helped me with box-shadows which I rarely used before. I really liked this pattern and will use it going forward.
+- [box-shadows](https://youtu.be/-JNRQ5HjNeI) - This helped me with box-shadows which I rarely used before. I really liked this pattern and will use it going forward.
 
 ## Author
 
