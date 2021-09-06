@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vish5268/Order-Summary)
-- Live Site URL: [Add live site URL here](https://vish5268.github.io/Order-Summary/)
+- Solution URL: [Github Repo](https://github.com/vish5268/Order-Summary)
+- Live Site URL: [Site URL](https://vish5268.github.io/Order-Summary/)
 
 ## My process
 
