@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/vish5268/Order-Summary)
+- Live Site URL: [Add live site URL here](https://vish5268.github.io/Order-Summary/)
 
 ## My process
 
@@ -77,7 +77,6 @@ Areas I'd like to practice on:
 
 ## Author
 
-- Website - [Vishal Alkari]
 - Frontend Mentor - [@vish5268](https://www.frontendmentor.io/profile/vish5268)
 
 ## Acknowledgments
